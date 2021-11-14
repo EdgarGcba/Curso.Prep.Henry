@@ -1,0 +1,7 @@
+Homework:
+
+* - Objetos, Es otro contenedor de datos (como los arrays y las matrices), Los objetos contienen informacion sobre una sola cosa.
+* - Propiedades, son los pares clave:valor, las claves son unicas en un objeto, los valores pueden ser de diferentes tipos (cadena, numero...)
+* - Métodos, Son las funciones guardadas en un objeto, 
+* - Bucle for…in, Sirve para iterar los pares clave:valor. 
+* - Notación de puntos vs notación de corchetes, se utilizan indistitamente para acceder a los atributos o metodos de los objetos.
